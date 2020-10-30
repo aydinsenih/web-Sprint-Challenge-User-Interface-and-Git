@@ -38,6 +38,10 @@ semantic HTML means HTML tags that has meaning
 
 2. Name two big differences between ```display: block;``` and ```display: inline;```.
 
+Block: displays element as a block , takes up the full width available
+
+Inline: displays elements in inline , takes up only as much as width it needs
+
 3. What are the 4 areas of the box model?
 
 padding, margin, border, content
